@@ -1,0 +1,16 @@
+{
+  "labeled_conversations": 59778,
+  "personal_conversations": 12832,
+  "sets": 451,
+  "conversations_in_sets": 8015,
+  "distinct_ips_in_sets": 300,
+  "config": {
+    "min_convos_per_set": 2,
+    "min_span_days": 1.0,
+    "max_span_days": 7.0,
+    "personal_confidence_min": 0.5,
+    "keep_languages": [
+      "English"
+    ]
+  }
+}
