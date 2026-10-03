@@ -2,3 +2,12 @@
 __pycache__/
 *.py[cod]
 *.log
+
+# Large data (reproducible via pipeline/)
+data_raw/
+work/
+out/personal_sets.jsonl
+out/personal_sets.csv
+
+# Local Claude Code settings
+.claude/settings.local.json
